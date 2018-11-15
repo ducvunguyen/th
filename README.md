@@ -10,6 +10,6 @@ Thực hiện bởi [Nguyễn Đức Vũ](https://github.com/ducvunguyen)
 
 ## Liên kết
 
-- [giao diện](https://ducvunguyen.github.io/th/app/index.html?_ijt=t9nuq24k4j40fvki8jlpmnnc0j)
+- [giao diện](https://ducvunguyen.github.io/th/app/index.html?_ijt=62vi1t50mv7bs5a70h7uitat8e)
 - [anh](https://ducvunguyen.github.io/th/public/img/giaodien.png)
 
